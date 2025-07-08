@@ -49,7 +49,7 @@ The Society of Petroleum Engineer (SPE) Data Science and Engineering Analytics T
 - Teams are expected to save the well classifications in a csv file with the following naming convention: **TeamName_DSEATS_Africa_2025_Classification.csv**. Adopt similar naming convention for both the PowerPoint slide and Google Colab / Jupyter Notebook file.
 
 - Each team is expected to create a brief PowerPoint presentation of not more than ten (10) slides in total including the Title, Outline, Experimental Data Analysis (EDA), Methodology, Results, Contributions and Thank You slides. A “Thank you” slide is not necessary and can be omitted.
-> ![NOTE]
+> [!NOTE]
 > (*Note: Presentation slides that are more than 10 may result in deduction of points which will affect your team’s overall score*)
 
 - The Title slide of your team’s presentation should be captioned (e.g Classification of Oil Wells in the DSEATS Field Using Machine Learning), followed by your team’s name, names of team members and their respective SPE numbers, SPE Sections in Africa that they are affiliated to, School or Company affiliations and date.
